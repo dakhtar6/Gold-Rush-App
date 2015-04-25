@@ -1,0 +1,22 @@
+.map-img {
+	width: 100%;
+	min-width: 1400px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.map-marker {
+	height: 40px;
+	width: 40px;
+	position: absolute;
+}
+
+.pickaxe-container {
+	position: relative;
+}
+
+.inactive {
+	display: none;
+}
